@@ -1,0 +1,108 @@
+﻿Détails
+Séries : Temp., °C (Petite Balme 3 ici>)
+	Périphériques
+		Infos périphérique
+			• Produit : HOBO UA-001-64 Pendant Temp
+			• Numéro de série : 21745243
+			• Numéro de version : 1.10
+			• Fabricant : Onset Computer Corp.
+			• Mémoire de l'appareil : 65536
+			• En-tête créé : 09/13/13 11:39:26 AM GMT+02:00
+	Infos de déploiement
+		• Nom de série complet : Température, °C
+		• Étiquette de capteur : Petite Balme 3 ici>
+		• Description de lancement : 21745243
+		• Numéro de déploiement : 2
+		• Heure de lancement : 10/06/23 12:10:21 PM GMT+02:00
+		• Intervalle d'enregistrement : 02 h 00 min 00 s
+		• Lancer décalage GMT : 2 h 0 min
+		• Pile au lancement : 2,97 V
+		• Lancement du Programme : HOBOware Pro-3.7.23_0603_1001_Windows
+	Statistiques de la série
+		• Échantillons : 3 457
+		• Max. : 21,378
+		• Min. : 0,674
+		• Moy. : 0,976
+		• Écart type (s) : 0,908
+		• Heure premier échantillon : 11/06/23 12:00:00 PM GMT+02:00
+		• Heure dernier échantillon : 08/20/24 12:00:00 PM GMT+02:00
+Type d'événement : Coupleur attaché
+	Périphériques
+		Infos périphérique
+			• Produit : HOBO UA-001-64 Pendant Temp
+			• Numéro de série : 21745243
+			• Numéro de version : 1.10
+			• Fabricant : Onset Computer Corp.
+			• Mémoire de l'appareil : 65536
+			• En-tête créé : 09/13/13 11:39:26 AM GMT+02:00
+	Infos de déploiement
+		• Nom de série complet : Coupleur attaché
+		• Description de lancement : 21745243
+		• Numéro de déploiement : 2
+		• Heure de lancement : 10/06/23 12:10:21 PM GMT+02:00
+		• Lancer décalage GMT : 2 h 0 min
+		• Pile au lancement : 2,97 V
+	Statistiques de la série
+		• Échantillons : 1
+		• Heure premier échantillon : 08/20/24 01:47:11 PM GMT+02:00
+		• Heure dernier échantillon : 08/20/24 01:47:11 PM GMT+02:00
+Type d'événement : Hôte connecté
+	Périphériques
+		Infos périphérique
+			• Produit : HOBO UA-001-64 Pendant Temp
+			• Numéro de série : 21745243
+			• Numéro de version : 1.10
+			• Fabricant : Onset Computer Corp.
+			• Mémoire de l'appareil : 65536
+			• En-tête créé : 09/13/13 11:39:26 AM GMT+02:00
+	Infos de déploiement
+		• Nom de série complet : Hôte connecté
+		• Description de lancement : 21745243
+		• Numéro de déploiement : 2
+		• Heure de lancement : 10/06/23 12:10:21 PM GMT+02:00
+		• Lancer décalage GMT : 2 h 0 min
+		• Pile au lancement : 2,97 V
+	Statistiques de la série
+		• Échantillons : 1
+		• Heure premier échantillon : 08/20/24 01:47:11 PM GMT+02:00
+		• Heure dernier échantillon : 08/20/24 01:47:11 PM GMT+02:00
+Type d'événement : Arrêté
+	Périphériques
+		Infos périphérique
+			• Produit : HOBO UA-001-64 Pendant Temp
+			• Numéro de série : 21745243
+			• Numéro de version : 1.10
+			• Fabricant : Onset Computer Corp.
+			• Mémoire de l'appareil : 65536
+			• En-tête créé : 09/13/13 11:39:26 AM GMT+02:00
+	Infos de déploiement
+		• Nom de série complet : Arrêté
+		• Description de lancement : 21745243
+		• Numéro de déploiement : 2
+		• Heure de lancement : 10/06/23 12:10:21 PM GMT+02:00
+		• Lancer décalage GMT : 2 h 0 min
+		• Pile au lancement : 2,97 V
+	Statistiques de la série
+		• Échantillons : 1
+		• Heure premier échantillon : 08/20/24 01:48:33 PM GMT+02:00
+		• Heure dernier échantillon : 08/20/24 01:48:33 PM GMT+02:00
+Type d'événement : Fin de fichier
+	Périphériques
+		Infos périphérique
+			• Produit : HOBO UA-001-64 Pendant Temp
+			• Numéro de série : 21745243
+			• Numéro de version : 1.10
+			• Fabricant : Onset Computer Corp.
+			• Mémoire de l'appareil : 65536
+			• En-tête créé : 09/13/13 11:39:26 AM GMT+02:00
+	Infos de déploiement
+		• Nom de série complet : Fin de fichier
+		• Description de lancement : 21745243
+		• Numéro de déploiement : 2
+		• Heure de lancement : 10/06/23 12:10:21 PM GMT+02:00
+		• Lancer décalage GMT : 2 h 0 min
+		• Pile au lancement : 2,97 V
+	Statistiques de la série
+		• Échantillons : 1
+		• Heure premier échantillon : 08/20/24 01:48:33 PM GMT+02:00
+		• Heure dernier échantillon : 08/20/24 01:48:33 PM GMT+02:00
