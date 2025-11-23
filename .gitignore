@@ -27,4 +27,4 @@ Therion/GIS/Big_files/
 *.3d
 *.sql
 *.ai
-flashcar.dat
+*flashcar.dat
